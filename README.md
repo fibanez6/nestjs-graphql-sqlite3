@@ -27,6 +27,18 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 
+### Create Owner and Schema
+
+![Create an owner and Schema](./images/createOwner-Schema.png)
+
+### Create Pet
+
+![Create a pet](./images/createPet.png)
+
+### Query All Pets
+
+![Query all pets](./images/queryPets.png)
+
 ## Stack
 
 * [@nestjs 9.0.0](https://github.com/nestjs/nest)
