@@ -42,12 +42,12 @@
 ## Stack
 
 * [@nestjs 9.0.0](https://github.com/nestjs/nest)
-* [@nestjs/graphql 10.1.2](https://docs.nestjs.com/graphql/quick-start)
+* [Graphql 16.6.0](https://docs.nestjs.com/graphql/quick-start)
    * Code First
    * Apollo Driver
-* [typeorm](https://typeorm.io/)
-* [class-validator 0.13.2](https://github.com/typestack/class-validator)
-* [sqlite3](https://www.sqlite.org/index.html)
+* [Typeorm](https://typeorm.io/)
+* [Class-validator 0.13.2](https://github.com/typestack/class-validator)
+* [Sqlite3](https://www.sqlite.org/index.html)
 
 ## Installation
 
