@@ -43,6 +43,7 @@
 
 * [@nestjs 9.0.0](https://github.com/nestjs/nest)
 * [@nestjs/graphql 10.1.2](https://docs.nestjs.com/graphql/quick-start)
+   * Code First
    * Apollo Driver
 * [typeorm](https://typeorm.io/)
 * [class-validator 0.13.2](https://github.com/typestack/class-validator)
