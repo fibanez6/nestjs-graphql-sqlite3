@@ -1,5 +1,9 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="./logos/nestjs-logo.svg" width="100" alt="Nest Logo"/></a>
+  <a href="https://nodejs.org/en/" target="blank"><img src="./logos/node-logo.webp" width="100" alt="Nodejs logo"/></a>
+  <a href="https://graphql.org/" target="blank"><img src="./logos/graphql-logo.png" width="100" alt="GraphQl logo"/></a>
+  <a href="https://typeorm.io/" target="blank"><img src="./logos/typeorm-logo.png" width="100" alt="Typeorm logo"/></a>
+  <a href="https://www.sqlite.org/index.html" target="blank"><img src="./logos/sqlite-logo.png" width="100" alt="Sqlite logo"/></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
@@ -24,20 +28,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-
-### Create Owner and Schema
-
-![Create an owner and Schema](./images/createOwner-Schema.png)
-
-### Create Pet
-
-![Create a pet](./images/createPet.png)
-
-### Query All Pets
-
-![Query all pets](./images/queryPets.png)
+Nestjs project with GraphQl CRUD operations and class validation.
 
 ## Stack
 
@@ -47,6 +38,18 @@
 * [typeorm](https://typeorm.io/)
 * [class-validator 0.13.2](https://github.com/typestack/class-validator)
 * [sqlite3](https://www.sqlite.org/index.html)
+
+### Create Owner and Schema
+
+![Create an owner and Schema](./screenshots/createOwner-Schema.png)
+
+### Create Pet
+
+![Create a pet](./screenshots/createPet.png)
+
+### Query All Pets
+
+![Query all pets](./screenshots/queryPets.png)
 
 ## Installation
 
