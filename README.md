@@ -28,7 +28,7 @@
 
 ## Description
 
-Nestjs project with GraphQl CRUD operations and class validation.
+Nestjs project with GraphQL CRUD operations and class validation.
 
 ## Stack
 
